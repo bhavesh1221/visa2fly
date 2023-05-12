@@ -54,22 +54,22 @@ export class ScreenOneComponent implements OnInit , AfterViewInit {
     {
       name: 'Julian Jameson',
       prof: 'Profession',
-      img: '/assets/images/user-cover-1.png'
+      img: 'assets/images/user-cover-1.png'
     },
     {
       name: 'Julian Jameson',
       prof: 'Profession',
-      img: '/assets/images/user-cover-2.png'
+      img: 'assets/images/user-cover-2.png'
     },
     {
       name: 'Julian Jameson',
       prof: 'Profession',
-      img: '/assets/images/user-cover-3.png'
+      img: 'assets/images/user-cover-3.png'
     },
     {
       name: 'Julian Jameson',
       prof: 'Profession',
-      img: '/assets/images/user-cover-4.png'
+      img: 'assets/images/user-cover-4.png'
     },
 
   ]
